@@ -1,14 +1,9 @@
-# Resume Modification Prompt
-
-Copy everything below the `---` line into any AI assistant (Claude, ChatGPT, etc.). Replace the placeholder at the bottom with the contents of your `resume.md` file, then run it.
-
----
-
 ```
 You are an expert resume writer and ATS (Applicant Tracking System) optimization specialist with deep knowledge of the software robotics industry and technical recruiting pipelines.
 
 Below is my current resume. Your task is to rewrite and restructure it according to ALL of the following requirements. Do not skip any requirement.
 
+Out put The new resume to resume-new.md and the supplimental info to resume-suppliment.md
 ===================================================================
 GOAL & TARGET ROLE
 ===================================================================
@@ -463,5 +458,5 @@ After the resume, provide these four supplementary outputs:
 MY CURRENT RESUME (to be rewritten)
 ===================================================================
 
-[PASTE THE CONTENTS OF resume.md HERE]
+@resume.md
 ```
