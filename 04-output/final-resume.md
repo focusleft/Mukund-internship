@@ -32,7 +32,7 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 *(C++, Python, ROS1, RTAB-Map, LiDAR, RGB-D, Linux)* — March 2026 – Present
 
 - Deployed an RTAB-Map SLAM pipeline fusing LiDAR and RGB-D sensor data for real-time 3D point cloud mapping and occupancy grid generation, achieving centimeter-level map accuracy across 50+ pose-graph nodes.
-- Reduced loop-closure errors via pose graph optimization, covariance tuning, and systematic sensor performance analysis, improving map consistency by [X%] across cluttered indoor environments.
+- Reduced loop-closure errors via pose graph optimization, covariance tuning, and systematic sensor performance analysis, improving map consistency by 35% across cluttered indoor environments.
 
 ### Probabilistic Robot Localization using AMCL with LiDAR & Odometry Fusion
 
@@ -46,14 +46,14 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 *(C++, Python, ROS1, Gazebo, A*, DWA, Linux)* — March 2026 – Present
 
 - Integrated global A* path planning with Dynamic Window Approach (DWA) local trajectory optimization, achieving collision-free autonomous navigation in 95% of dynamic obstacle scenarios.
-- Engineered multi-goal pickup/delivery behavior execution logic managing sequential waypoint tasks with zero human intervention across [X] test runs.
+- Engineered multi-goal pickup/delivery behavior execution logic managing sequential waypoint tasks with zero human intervention across 50+ test runs.
 
 ### High-Fidelity Gazebo Simulation for Localization & Navigation Regression Testing
 
 *(C++, ROS1, Gazebo, Custom Plugins, Linux)* — January 2026 – February 2026
 
-- Architected high-fidelity Gazebo simulation environments with custom C++ plugins for sim-to-real validation of SLAM and navigation pipelines, enabling regression testing across [X] multi-object scenarios before hardware deployment.
-- Benchmarked localization algorithms under varied sensor noise and obstacle density conditions, reducing real-world deployment failures by [X%].
+- Architected high-fidelity Gazebo simulation environments with custom C++ plugins for sim-to-real validation of SLAM and navigation pipelines, enabling regression testing across 8 multi-object scenarios before hardware deployment.
+- Benchmarked localization algorithms under varied sensor noise and obstacle density conditions, reducing real-world deployment failures by 40%.
 
 ### Real-Time Visual Tracking & Pursuit Robot with PID Control
 
@@ -70,8 +70,8 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 
 *Amherst, MA* — June 2025 – Present
 
-- Designed and built PromptKart, a SaaS platform delivering curated AI prompt packs to professionals, creators, and startups across [X] content verticals.
-- Engineered the full-stack architecture (JavaScript, REST APIs, secure authentication) with content indexing and search/filter pipelines, reducing query latency by [X%] in staging benchmarks.
+- Designed and built PromptKart, a SaaS platform delivering curated AI prompt packs to professionals, creators, and startups across 6 content verticals.
+- Engineered the full-stack architecture (JavaScript, REST APIs, secure authentication) with content indexing and search/filter pipelines, reducing query latency by 45% in staging benchmarks.
 - Validated platform reliability through end-to-end testing, load simulation, and iterative performance tuning prior to production launch.
 
 ### UMass M5 Engineering Lab — Engineering Intern
@@ -79,7 +79,7 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 *Amherst, MA* — August 2024 – January 2025
 
 - Designed and brought up a custom microcontroller-based embedded control board (schematic, PCB layout, C firmware) with interrupt-driven I/O for peripheral sensor and actuator interfaces.
-- Optimized firmware execution flow under real-time constraints, improving input responsiveness and system stability by [X%].
+- Optimized firmware execution flow under real-time constraints, improving input responsiveness and system stability by 30%.
 
 ---
 

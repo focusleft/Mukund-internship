@@ -8,6 +8,7 @@ Resume optimization pipeline targeting **Software Robotics internships** (Summer
 
 ### Final Deliverables
 - [Final Resume](04-output/final-resume.md) — the rewritten, ATS-optimized resume
+- [Interview Prep](04-output/interview-prep.md) — how to explain and defend every resume claim, with likely follow-up questions
 - [ATS Checklist & LinkedIn](04-output/ats-checklist-and-linkedin.md) — keyword coverage, LinkedIn headline, LinkedIn About, top 5 roles to apply
 - [Why This Resume Works](04-output/why-this-resume-works.md) — section-by-section breakdown of design decisions
 
@@ -45,6 +46,7 @@ mukund-internship/
 |
 |-- 04-output/
 |   |-- final-resume.md              # Rewritten resume (ready to format)
+|   |-- interview-prep.md            # Defend every claim in interviews
 |   |-- ats-checklist-and-linkedin.md # Keywords, LinkedIn, top roles
 |   |-- why-this-resume-works.md     # Design rationale
 |
