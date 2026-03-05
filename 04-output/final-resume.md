@@ -66,14 +66,15 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 
 ## WORK EXPERIENCE
 
-### Prompt Kart INC. — Co-Founder and Lead Developer
+### PromptKart INC. — Co-Founder and Lead Developer
 
 *Amherst, MA* — June 2025 – Present
 
-- Architected a full-stack data platform (JavaScript, REST APIs, secure authentication) with real-time search and filtering pipelines, reducing query latency by [X%].
-- Validated system reliability through end-to-end testing, troubleshooting, and iterative performance tuning, achieving [X%] uptime across [X] concurrent users.
+- Designed and built PromptKart, a SaaS platform delivering curated AI prompt packs to professionals, creators, and startups across [X] content verticals.
+- Engineered the full-stack architecture (JavaScript, REST APIs, secure authentication) with content indexing and search/filter pipelines, reducing query latency by [X%] in staging benchmarks.
+- Validated platform reliability through end-to-end testing, load simulation, and iterative performance tuning prior to production launch.
 
-### UMass M5 Engineering Lab — Lead Student Engineer
+### UMass M5 Engineering Lab — Engineering Intern
 
 *Amherst, MA* — August 2024 – January 2025
 
@@ -102,7 +103,3 @@ Relevant Coursework: Embedded Systems, Control Systems, Data Structures & Algori
 
 - Diagnosed control system faults in a simulated surgical robotic arm using Python, identifying latency sources and proposing corrective tuning.
 - Delivered engineering recommendations with annotated technical visuals to improve precision, stability, and system durability.
-
----
-
-Languages: English, Telugu, Hindi
