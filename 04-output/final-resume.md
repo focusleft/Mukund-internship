@@ -43,10 +43,10 @@ Robotics software engineer pursuing a BS in Computer Engineering at UMass Amhers
 
 ### Autonomous Multi-Goal Navigation with A*/DWA Motion Planning
 
-*(C++, Python, ROS1, Gazebo, A*, DWA, Linux)* — March 2026 – Present
+*(C++, Python, ROS1, Gazebo, move_base, Linux)* — March 2026 – Present
 
-- Integrated global A* path planning with Dynamic Window Approach (DWA) local trajectory optimization, achieving collision-free autonomous navigation in 95% of dynamic obstacle scenarios.
-- Engineered multi-goal pickup/delivery behavior execution logic managing sequential waypoint tasks with zero human intervention across 50+ test runs.
+- Built a two-layer ROS navigation stack combining A* global path planning with DWA local obstacle avoidance, achieving collision-free navigation in 95% of dynamic obstacle scenarios across 50+ test runs.
+- Developed a state machine that autonomously sequences pickup, delivery, and return-to-home waypoints via the move_base action server with automatic retry on failure — zero human intervention required.
 
 ### High-Fidelity Gazebo Simulation for Localization & Navigation Regression Testing
 
